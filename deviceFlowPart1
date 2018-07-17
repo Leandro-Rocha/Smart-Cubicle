@@ -1,0 +1,1 @@
+[{"id":"63a98090.ee2ea8","type":"rpi-srf","z":"6048f26c.434d24","name":"","topic":"SRF","pulse":"0.5","pins":"7,11","x":210,"y":260,"wires":[["7d836328.4e08c4"]]},{"id":"7d836328.4e08c4","type":"debug","z":"6048f26c.434d24","name":"","active":true,"tosidebar":true,"console":false,"tostatus":false,"complete":"false","x":440,"y":260,"wires":[]}]
